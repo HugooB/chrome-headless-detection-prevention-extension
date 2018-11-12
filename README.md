@@ -5,7 +5,7 @@ A plugin for Chrome created to prevent Chrome headless detection, as explained i
 In normal Google Chrome (for testing purposes):
 
 1. Start Google Chrome
-2. Go to (chrome://extensions/)[chrome://extensions/]
+2. Go to [chrome://extensions/](chrome://extensions/)
 3. Enable developer mode
 4. Click on the button to load the extension
 
